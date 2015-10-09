@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-def calcular_edad(edad):
 
+def calcular_edad(edad):
     """
     >>> calcular_edad(0)
     No existes
@@ -31,9 +31,6 @@ def calcular_edad(edad):
         print "Eres adulto mayor"
     else:
         print "Eres Mummm-Ra"
-
-
-
 
     if __name__ == "__main__":
         import doctest

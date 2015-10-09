@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-def total_pagar(costo):
 
+def total_pagar(costo):
     """
     >>> total_pagar(500)
     425.0

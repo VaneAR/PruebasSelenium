@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 
+
 def ganancias(sueldo_base, ventas1, ventas2, ventas3):
-
-
     """
     >>> ganancias(200,300,400,500)
     Comisiones por ventas: 120.0
@@ -20,12 +19,3 @@ def ganancias(sueldo_base, ventas1, ventas2, ventas3):
 if __name__ == "__main__":
     import doctest
     doctest.testmod()
-
-
-
-
-
-
-
-
-
